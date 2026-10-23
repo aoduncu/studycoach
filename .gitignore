@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.tsbuildinfo
+supabase/.temp/
+supabase/.branches/
+.local-demo.json
+playwright-report/
+test-results/
+.local-stack.json
+.local-stack.env

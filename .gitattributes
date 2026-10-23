@@ -1,0 +1,2 @@
+# The supplied requirements use Markdown's two-space hard line breaks.
+docs/requirements.md whitespace=-blank-at-eol
